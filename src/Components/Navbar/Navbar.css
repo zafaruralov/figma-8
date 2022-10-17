@@ -1,0 +1,18 @@
+.realImg{
+    border-radius: 50%;
+}
+.fast_food{
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 22px;
+}
+.online{
+    font-family: 'SFProDisplay';
+    font-size: 16px;
+    line-height: 14px;
+    color: #2D3A45;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
